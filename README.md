@@ -1,7 +1,5 @@
 # LeetCode Solutions
 
-A collection of my accepted LeetCode solutions for coding interview preparation.
-
 ⚡ Automatically synchronized with GitHub using LeetHub.
 
 ## Enumeration
