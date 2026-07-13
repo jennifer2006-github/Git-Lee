@@ -1,6 +1,6 @@
 # Git-Lee
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Solutions
 ## Enumeration
 |  |
 | ------- |
