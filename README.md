@@ -16,6 +16,7 @@
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/jennifer2006-github/Git-Lee/tree/master/1068-product-sales-analysis-i) |
 | [1179-reformat-department-table](https://github.com/jennifer2006-github/Git-Lee/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/jennifer2006-github/Git-Lee/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/jennifer2006-github/Git-Lee/tree/master/1327-list-the-products-ordered-in-a-period) |
