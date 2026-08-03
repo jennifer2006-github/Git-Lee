@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jennifer2006-github/Git-Lee/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/jennifer2006-github/Git-Lee/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/jennifer2006-github/Git-Lee/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
