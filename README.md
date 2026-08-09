@@ -51,10 +51,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jennifer2006-github/Git-Lee/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jennifer2006-github/Git-Lee/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jennifer2006-github/Git-Lee/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jennifer2006-github/Git-Lee/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,4 +65,9 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jennifer2006-github/Git-Lee/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jennifer2006-github/Git-Lee/tree/master/0144-binary-tree-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jennifer2006-github/Git-Lee/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
