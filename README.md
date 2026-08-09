@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jennifer2006-github/Git-Lee/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/jennifer2006-github/Git-Lee/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -44,6 +45,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jennifer2006-github/Git-Lee/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/jennifer2006-github/Git-Lee/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
