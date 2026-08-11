@@ -19,6 +19,7 @@
 | [1068-product-sales-analysis-i](https://github.com/jennifer2006-github/Git-Lee/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/jennifer2006-github/Git-Lee/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/jennifer2006-github/Git-Lee/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/jennifer2006-github/Git-Lee/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/jennifer2006-github/Git-Lee/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/jennifer2006-github/Git-Lee/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/jennifer2006-github/Git-Lee/tree/master/1251-average-selling-price) |
