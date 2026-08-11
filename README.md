@@ -32,6 +32,7 @@
 | ------- |
 | [0136-single-number](https://github.com/jennifer2006-github/Git-Lee/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/jennifer2006-github/Git-Lee/tree/master/0877-stone-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jennifer2006-github/Git-Lee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +85,12 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jennifer2006-github/Git-Lee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jennifer2006-github/Git-Lee/tree/master/0145-binary-tree-postorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jennifer2006-github/Git-Lee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jennifer2006-github/Git-Lee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
