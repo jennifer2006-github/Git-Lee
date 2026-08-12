@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jennifer2006-github/Git-Lee/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/jennifer2006-github/Git-Lee/tree/master/0168-excel-sheet-column-title) |
 ## Database
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/jennifer2006-github/Git-Lee/tree/master/0168-excel-sheet-column-title) |
 | [0877-stone-game](https://github.com/jennifer2006-github/Git-Lee/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
